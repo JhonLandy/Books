@@ -2,7 +2,7 @@
 
 ### css
 
-[CSS 揭秘] (https://item.jd.com/13305034.html)
+[CSS 揭秘](https://item.jd.com/13305034.html)
 - 精通CSS高级Web标准解决方案（第3版）
 
 ### javascript
