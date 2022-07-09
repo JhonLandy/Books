@@ -20,6 +20,7 @@
  ### 前端工程化
  
 - [前端工程化体系设计与实践](https://item.jd.com/10054549366315.html)
+- [前端技术架构与工程](https://item.jd.com/12775796.html)
 - [深入浅出Webpack](https://item.jd.com/10054555436443.html)
 
 ### java
